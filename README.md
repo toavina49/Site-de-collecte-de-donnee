@@ -7,6 +7,9 @@ $Modern: animations and pleasant site.
 Effective: visibility, quick interaction, 
 and easy to manage. 
 
+
+
 use:
-#Run (link unavailable) in your terminal which will display the activation links
+#Run  in your terminal which will display the activation links
+
 #Copy and paste the link to make it work . 
