@@ -13,3 +13,7 @@ use:
 #Run  in your terminal which will display the activation links
 
 #Copy and paste the link to make it work . 
+    
+    whatsapp    +261 0349171138
+     telegram: Anec rta 
+     facebook :anec rta
