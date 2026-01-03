@@ -1,19 +1,31 @@
-👉 Data Collection Site:
+# 🚀 Data Collection Site
+> **Automated with Python and Typescript**
 
-    Automated with Python and TinyDB aims to help businesses organize their projects to store their data. 
-$Clean and fast: simplified data entry. 
-$Automated with date and time. 
-$Modern: animations and pleasant site. 
-Effective: visibility, quick interaction, 
-and easy to manage. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
+### ✨ Caractéristiques
+* **⚡ Clean & Fast** : Saisie de données simplifiée.
+* **🕒 Automated** : Gestion automatique de la date et de l'heure.
+* **🎨 Modern** : Animations fluides et interface utilisateur agréable.
+* **📊 Effective** : Visibilité maximale et interactions rapides.
 
+---
 
-use:
-#Run  in your terminal which will display the activation links
+### 🛠️ Utilisation
+1. Ouvrez votre **terminal**.
+2. Exécutez la commande pour afficher les **liens d'activation**.
+3. Copiez et collez le lien pour faire fonctionner le site.
 
-#Copy and paste the link to make it work . 
-    
-    whatsapp    +261 0349171138
-     telegram: Anec rta 
-     facebook :anec rta
+### 📱 Me contacter
+Avez-vous besoin d'aide ? Contactez-moi sur :
+
+| Plateforme | Contact |
+| :--- | :--- |
+| **WhatsApp** | [+261 0349171138](https://wa.me/2610349171138) |
+| **Telegram** | [@Anec_rta](https://t.me/Anec_rta) |
+| **Facebook** | [anec rta](https://facebook.com) |
+
+---
+<p align="right">(Propulsé par Python 🐍)</p>
