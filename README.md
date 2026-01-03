@@ -1,6 +1,6 @@
 # 🚀 Data Collection Site
-> **Automated with Python and Typescript**
-
+> **Automated with Python and              Typescript**
+    
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -10,15 +10,12 @@
 * **🕒 Automated** : Gestion automatique de la date et de l'heure.
 * **🎨 Modern** : Animations fluides et interface utilisateur agréable.
 * **📊 Effective** : Visibilité maximale et interactions rapides.
+*🔑securised:sign up before using (database secured database)
+*📈 statistics viewer
+ 
+<h1>-------------------------</h1>
 
----
-
-### 🛠️ Utilisation
-1. Ouvrez votre **terminal**.
-2. Exécutez la commande pour afficher les **liens d'activation**.
-3. Copiez et collez le lien pour faire fonctionner le site.
-
-### 📱 Me contacter
+### 📱 contact Me
 Avez-vous besoin d'aide ? Contactez-moi sur :
 
 | Plateforme | Contact |
@@ -27,5 +24,4 @@ Avez-vous besoin d'aide ? Contactez-moi sur :
 | **Telegram** | [@Anec_rta](https://t.me/Anec_rta) |
 | **Facebook** | [anec rta](https://facebook.com) |
 
----
-<p align="right">(Propulsé par Python 🐍)</p>
+
